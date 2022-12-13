@@ -1,15 +1,5 @@
-/******************************************************************************
 
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 //João Kleber Magalhães dos Santos
-//221006781
-//Lista 2 POO
-//Questão 3 
 //Uma papelaria precisa melhorar seu sistema de cadastros de produtos, 
 //desenvolva um sistema de cadastro que guarde os diferentes produtos 
 //( cadernos, canetas e mochilas) em um arquivo de texto.
